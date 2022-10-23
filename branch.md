@@ -1,5 +1,5 @@
 ## ***git branch***
----
+
 git branch - отображает список всех веток
 
 git branch -m "branch name" - переименование ветки
