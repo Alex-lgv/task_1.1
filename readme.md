@@ -21,6 +21,7 @@ LICENSE: [MIT](license.md)
 9. [*git clone*](clone.md)
 10. [*git pull*](pull.md)
 11. [*git push*](push.md)
+12. [*ls*](ls.md)
 
 ---
 
